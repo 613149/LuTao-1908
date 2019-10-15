@@ -1,5 +1,5 @@
 //使用第三方模块 引入fs文件模块
-const fs = require('fs');2
+const fs = require('fs');
     //gulp把文件读取出来，然后修改，最后再写回去
 // console.log(fs);
 //读取文件

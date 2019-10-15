@@ -1,16 +1,17 @@
 {
-  "name": "npm",
-  "version": "1.0.0",
-  "description": "",
+  "name": "npm-test",
+  "version": "6.6.6",
+  "description": "这是一个模块测试文件",
   "main": "index.js",
   "dependencies": {
+    "gulp": "^4.0.2",
     "jquery": "^3.4.1",
-    "wifi": "^0.0.2"
+    "wifi": "0.0.2"
   },
   "devDependencies": {},
   "scripts": {
     "test": "zs",
-    "start":"git add ."
+    "start": "git add ."
   },
   "author": "",
   "license": "ISC"
